@@ -1,0 +1,103 @@
+Crime Type,Crime subcategory,YEAR,SINDH,KARACHI REGION,HYDERABAD REGION,MIRPURKHAS REGION,SUKKUR REGION,LARKANA REGION,S. BENAZIRABAD REGION
+violent Crime,Murder,2016,"1,444",620,253,38,149,257,127
+violent Crime,"Attempt to
+Murder",2016,"1,770",472,403,109,252,331,203
+violent Crime,Kidnapping,2016,"2,789","1,576",287,88,309,355,174
+Property Crime,Dacoity,2016,702,209,160,7,151,116,59
+Property Crime,Robbery,2016,"2,390","1,897",190,33,111,73,86
+Property Crime,"Motor Vehicle
+Theft",2016,"4,096",3680,167,32,80,92,45
+White-Collar Crime,"Fatal
+Accident",2016,679,461,72,21,51,53,21
+White-Collar Crime,"Prohibition
+Ordinance",2016,"9,244","3,749","2,257",823,839,469,"1,107"
+White-Collar Crime,"Arms
+Ordinance",2016,"9,746","5,802","1,152",278,"1,037",989,488
+White-Collar Crime,"Gambling
+Ordinance",2016,"1,261",363,222,22,316,190,148
+White-Collar Crime,Other Local & Special Laws,2016,"3,143","2,314",125,208,35,86,375
+violent Crime,Murder,2017,"1,401",519,243,39,164,302,134
+violent Crime,"Attempt to
+Murder",2017,"1,752",465,504,98,248,253,184
+violent Crime,Kidnapping,2017,"2,854","1,712",384,79,289,247,143
+Property Crime,Dacoity,2017,570,191,128,8,95,113,35
+Property Crime,Robbery,2017,"2,363","1,996",158,17,70,76,46
+Property Crime,"Motor Vehicle
+Theft",2017,4049,3656,139,17,94,84,59
+White-Collar Crime,"Fatal
+Accident",2017,561,355,87,7,33,49,30
+White-Collar Crime,"Prohibition
+Ordinance",2017,"10,339","5,101","1,914",670,706,508,"1,440"
+White-Collar Crime,"Arms
+Ordinance",2017,"9,379","6,375",873,192,628,855,456
+White-Collar Crime,"Gambling
+Ordinance",2017,"1,387",424,226,14,233,261,229
+White-Collar Crime,Other Local & Special Laws,2017,"4,578","3,265",274,239,68,50,682
+violent Crime,Murder,2018,"1,309",424,217,53,193,301,121
+violent Crime,"Attempt to
+Murder",2018,"1,589",427,424,80,251,274,133
+violent Crime,Kidnapping,2018,"3,164","1,892",417,80,331,298,146
+Property Crime,Dacoity,2018,506,196,82,11,76,115,26
+Property Crime,Robbery,2018,"2,956","2,601",152,32,48,84,39
+Property Crime,"Motor Vehicle
+Theft",2018,"5,453",4888,215,51,123,110,66
+White-Collar Crime,"Fatal
+Accident",2018,609,389,85,14,40,57,24
+White-Collar Crime,"Prohibition
+Ordinance",2018,"13,270","6,035","3,359",735,"1,015",766,"1,360"
+White-Collar Crime,"Arms
+Ordinance",2018,"11,791","7,974","1,187",205,806,868,751
+White-Collar Crime,"Gambling
+Ordinance",2018,"1,509",388,220,19,345,311,226
+White-Collar Crime,Other Local & Special Laws,2018,"1,343",613,385,68,30,87,160
+violent Crime,Murder,2019,"1,312",431,233,54,186,295,113
+violent Crime,"Attempt to
+Murder",2019,"1,617",438,413,108,212,273,173
+violent Crime,Kidnapping,2019,"3,112","1,954",377,67,253,291,173
+Property Crime,Dacoity,2019,502,259,63,7,56,78,39
+Property Crime,Robbery,2019,"3,070","2,685",162,25,72,64,62
+Property Crime,"Motor Vehicle
+Theft",2019,"7,403","6,578",330,48,136,134,177
+White-Collar Crime,"Fatal
+Accident",2019,594,376,66,17,60,51,24
+White-Collar Crime,"Prohibition
+Ordinance",2019,"12,086","5,317","2,990",655,960,763,"1,401"
+White-Collar Crime,"Arms
+Ordinance",2019,"10,081","7,244",979,105,527,808,418
+White-Collar Crime,"Gambling
+Ordinance",2019,"2,102",365,345,56,688,293,355
+White-Collar Crime,Other Local & Special Laws,2019,"1,291",876,88,35,30,7,255
+violent Crime,Murder,2020,"1,380",441,236,57,189,309,148
+violent Crime,"Attempt to
+Murder",2020,"1,819",452,457,144,261,314,191
+violent Crime,Kidnapping,2020,"3,339","2,152",350,93,245,355,144
+Property Crime,Dacoity,2020,585,323,76,9,44,104,29
+Property Crime,Robbery,2020,"4,642","4,177",198,28,63,99,77
+Property Crime,"Motor Vehicle
+Theft",2020,"11,608","10,754",320,68,140,189,137
+White-Collar Crime,"Fatal
+Accident",2020,577,348,77,15,46,42,49
+White-Collar Crime,"Prohibition
+Ordinance",2020,"14,846","7,675","2,814","1,068","1,121",627,"1,541"
+White-Collar Crime,"Arms
+Ordinance",2020,"9,177","5,193","1,293",185,710,"1,107",689
+White-Collar Crime,"Gambling
+Ordinance",2020,"1,484",342,270,24,502,227,119
+White-Collar Crime,Other Local & Special Laws,2020,"2,009",401,890,287,22,43,366
+violent Crime,Murder,2021,"1,548",493,265,58,232,359,141
+violent Crime,"Attempt to
+Murder",2021,"1,992",601,506,100,292,330,163
+violent Crime,Kidnapping,2021,"4,170","2,883",424,100,299,314,150
+Property Crime,Dacoity,2021,675,389,64,9,60,98,55
+Property Crime,Robbery,2021,"6,046","5,569",204,39,84,81,69
+Property Crime,"Motor Vehicle
+Theft",2021,"30,120","29,083",407,63,153,194,220
+White-Collar Crime,"Fatal
+Accident",2021,573,382,63,13,35,30,50
+White-Collar Crime,"Prohibition
+Ordinance",2021,"14,909","8,340","2,499",892,"1,265",785,"1,128"
+White-Collar Crime,"Arms
+Ordinance",2021,"9,233","5,797","1,098",139,640,906,653
+White-Collar Crime,"Gambling
+Ordinance",2021,"1,445",424,206,12,480,197,126
+White-Collar Crime,Other Local & Special Laws,2021,"4,193",770,"2,305",555,17,60,486
